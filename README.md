@@ -1,6 +1,6 @@
 # Spend Less, Sea More
 
-This is a simple static website with a home page and 5 subpages, where 4 of the subpages have one subpage each.
+Welcome to Spend Less, Sea More, your ultimate guide to quality experiences on a simple budget. We believe that being a "global citizen" shouldn't be a title reserved for the wealthy. Whether you're looking to navigate though Southeast Asia's night markets or find hidden-gem hostels in Europe, we provide blue prints to help you go farther for less.
 
 ## Structure
 
